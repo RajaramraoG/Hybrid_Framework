@@ -14,16 +14,16 @@
       <![CDATA[Logout Success::]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-04-20T23:11:25 IST" name="Default suite" finished-at="2023-04-20T23:11:53 IST" duration-ms="28510">
+  <suite started-at="2023-04-24T12:59:27 IST" name="Default suite" finished-at="2023-04-24T12:59:57 IST" duration-ms="30940">
     <groups>
     </groups>
-    <test started-at="2023-04-20T23:11:25 IST" name="Default test" finished-at="2023-04-20T23:11:53 IST" duration-ms="28510">
+    <test started-at="2023-04-24T12:59:27 IST" name="Default test" finished-at="2023-04-24T12:59:57 IST" duration-ms="30940">
       <class name="driverFactory.DriverScript">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.DriverScript@54422e18]" started-at="2023-04-20T23:11:19 IST" name="setUp" finished-at="2023-04-20T23:11:25 IST" duration-ms="5655" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.DriverScript@54422e18]" started-at="2023-04-24T12:59:21 IST" name="setUp" finished-at="2023-04-24T12:59:26 IST" duration-ms="5297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="startTest()[pri:0, instance:driverFactory.DriverScript@54422e18]" started-at="2023-04-20T23:11:25 IST" name="startTest" finished-at="2023-04-20T23:11:53 IST" duration-ms="28459" status="PASS">
+        <test-method signature="startTest()[pri:0, instance:driverFactory.DriverScript@54422e18]" started-at="2023-04-24T12:59:27 IST" name="startTest" finished-at="2023-04-24T12:59:57 IST" duration-ms="30850" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[No of rows in TCSheet::9     No of rows in TSSheet::34]]>
@@ -39,7 +39,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.DriverScript@54422e18]" started-at="2023-04-20T23:11:53 IST" name="tearDown" finished-at="2023-04-20T23:11:54 IST" duration-ms="680" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.DriverScript@54422e18]" started-at="2023-04-24T12:59:58 IST" name="tearDown" finished-at="2023-04-24T12:59:58 IST" duration-ms="781" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
